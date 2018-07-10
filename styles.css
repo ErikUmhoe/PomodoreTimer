@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+#main-container {
+  height: 300px;
+  width: 600px;
+  background-color: black;
+  text-align: center;
+  margin: auto;
+  border-radius: 25px;
+  border: 4px solid red;
+}
+h3 {
+  text-align: center;
+  color: white;
+  margin-top: 40px;
+  font-size: 80px;
+}
+button {
+  border: 2px solid red;
+  color: white;
+  background-color: black;
+  font-size: 20px;
+  height: 60px;
+  width: 100px;
+}
